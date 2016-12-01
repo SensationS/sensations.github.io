@@ -55,7 +55,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/dash.jpg
-  caption: Captured Photo in Hangjhou China &copy; <a href="https://github.com/SensationS/sensations.github.io/blob/master/public/img/dash.jpg?raw=true">yongjoon.park</a>
+  caption: Captured Photo in Hangzhou China &copy; <a href="https://github.com/SensationS/sensations.github.io/blob/master/public/img/dash.jpg?raw=true">yongjoon.park</a>
 
 # Puglins
 mathjax: true # whether support mathjax
