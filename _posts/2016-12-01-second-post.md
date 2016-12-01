@@ -7,7 +7,7 @@ tags: [Test, Software]
 
 This is Test posts.
 
-```{.python}
+```python
 def sum(a, b):
     return a+b
 ```
