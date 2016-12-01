@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 테스트 포스트
 category: Dev
 tags: [Test, Software]
