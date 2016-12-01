@@ -2,7 +2,7 @@
 layout: post
 title: Test Posts
 category: Dev
-tags: [Test]
+tags: [Dev]
 ---
 
 This is Test posts.
