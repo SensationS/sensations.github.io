@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Test Posts
 category: Dev
-tags: [Dev]
+tags: [Test]
 ---
 
 This is Test posts.
