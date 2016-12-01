@@ -4,7 +4,7 @@
  <title>SensationS Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-12-01T20:29:46+09:00</updated>
+ <updated>2016-12-01T20:33:09+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>SensationS</name>
@@ -14,10 +14,11 @@
  
  <entry>
    <title>About</title>
-   <link href="http://localhost:4000/2016/12/01/first-post/"/>
+   <link href="http://localhost:4000/dev/2016/12/01/first-post/"/>
    <updated>2016-12-01T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2016/12/01/first-post</id>
-   <content type="html">
+   <id>http://localhost:4000/dev/2016/12/01/first-post</id>
+   <content type="html">&lt;p&gt;This is Test posts.&lt;/p&gt;
+
 </content>
  </entry>
  
