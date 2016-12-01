@@ -25,6 +25,7 @@ version: 1.0.0
 # About/contact
 author:
   name: SensationS
+  gravatar: e1510914cace8cad8947866ddd25ea28 # md5 hash of your email address
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
   contact:
     #linkedin:  https://www.linkedin.com/in/lizhihao
