@@ -43,7 +43,7 @@ feeling-lucky), a [wiki: test] link to a Wikipedia page, and a link to
 Now some inline markup like _italics_,  **bold**, and `code()`. Note that underscores in
 words are ignored in Markdown Extra.
 
-![picture alt](/public/dash.jpeg "Title is optional")     
+![picture alt](/public/dash.jpg "Title is optional")     
 
 > Blockquotes are like quoted text in email replies
 >> And, they can be nested
